@@ -95,7 +95,7 @@
   };
 </script>
 
-<style lang="stylus" res="stylesheet/stylus">
+<style lang="stylus" rel="stylesheet/stylus">
   @import "../../common/stylus/mixin.styl"
 
   .header
